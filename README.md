@@ -32,5 +32,5 @@ The goal is to uncover **data patterns, correlations, anomalies, and insights** 
 | Category | Tools Used |
 |-----------|-------------|
 | Language | **Python 3.10+** |
-| Core Libraries | `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `scipy` |
+| Core Libraries | `pandas`, `numpy`, `matplotlib`, `seaborn` |
 | Notebook Environment | **Jupyter  |
